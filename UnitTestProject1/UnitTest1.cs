@@ -183,7 +183,7 @@ namespace UnitTestProject1
             Assert.AreEqual(CheckFalse, actual);
         }
         [TestMethod]
-        public void SwapGroupsNumbersAndLetters()
+        public void SwapGroupsNumbersAndLetters()//wad
         {
             //arrange
             string test = "AB32AB32-AB2";
